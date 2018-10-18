@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="comenzar_visita">Comenzar Visita</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">Algo</string>
+</resources>
