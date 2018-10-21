@@ -47,18 +47,19 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
+        android:id="@+id/listenButton"
         android:layout_width="147dp"
         android:layout_height="49dp"
-
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="35dp"
-
-        android:text="Hablame"
+        android:onClick="listenButtonOnClick"
+        android:text="Hablar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/gifImageView"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
 
 
 </android.support.constraint.ConstraintLayout>
