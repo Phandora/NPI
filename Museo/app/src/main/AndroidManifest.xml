@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Hola"></activity>
+        <activity android:name=".Animal" />
+        <activity android:name=".Menu_animales"></activity>
     </application>
 
 </manifest>

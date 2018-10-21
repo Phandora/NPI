@@ -5,17 +5,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Museo extends AppCompatActivity {
+public class Menu_animales extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_museo);
+        setContentView(R.layout.activity_menu_animales);
     }
 
 
-    public void llama(View view) {
-        Intent intent = new Intent(this, Menu_animales.class);
+    public void Aniima1_llamar(View view) {
+        Intent intent = new Intent(this, Animal.class);
         startActivity(intent);
     }
 }

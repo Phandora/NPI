@@ -3,7 +3,7 @@ package com.example.ugr.museo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Hola extends AppCompatActivity {
+public class Animal extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
