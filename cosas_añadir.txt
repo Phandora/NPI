@@ -1,0 +1,3 @@
+QR
+mejorar pantalla botones
+boton de atras y aviso de tiempo
